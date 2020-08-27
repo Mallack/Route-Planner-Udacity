@@ -3,4 +3,5 @@ Route Planner Algorithim
 
 ## Description
 This is Project 5 "implement Route Planner" code for intro self driving cars Nanodegree by Udacity.
-the Route Planner uses A* algorithm to find the shortest path in a map. 
+the Route Planner uses A* algorithm , 
+The A-Star search algorithm combines Uniform cost search and Best First search to implement Best estimated path
